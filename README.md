@@ -69,11 +69,14 @@ Inside each folder, there are different JSON files corresponding to each test ba
 
 Each JSON file contains a collection of entries, where each entry represents a received packet and includes the following fields:
 - Timestamp: Reception time of the packet.
+- Latitude and Longitude: GPS position of the target
 - Anchor: ID of the transmitting anchor node.
 - Tx_pwr: Transmission power (in dBm).
 - Freq: Frequency used for transmission (in MHz).
 - RSSI: Received Signal Strength Indicator (in dBm).
 - SNR: Signal-to-Noise Ratio (in dB).
+
+(e.g.   {"Timestamp": "2025-03-18 10:33:14", "Latitude": 39.23062565, "Longitude": 9.1131206, "Anchor": "2", "Tx_pwr": 13, "Freq": 868.0, "RSSI": -91, "SNR": 6.5}
 
 
 This structured format allows for straightforward parsing and facilitates statistical analysis, model training, and evaluation of RSS-based techniques in realistic outdoor settings.
