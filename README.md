@@ -46,11 +46,11 @@ Data was collected on a football field at the *Centro Universitario Sportivo (CU
 ### 📍 Scenario A – Linear Distance Test
 - Goal: Analyze the RSSI-distance relationship.
 - Setup: One anchor moved linearly from 10 to 40 meters in 10-meter steps while the target remains stationary.
-![Scenario A](img/scenarioA.png)
+![Scenario A](img/ScenarioA.png)
 
 ### 📍 Scenario B – Grid-Based Deployment
 - Goal: RSSI measurement with fixed anchors and varied target positions.
 - Setup: Four anchors around a 23.5×44 m² rectangle. The target is placed at five positions (T1–T5).
-![Scenario B](img/scenarioB.png)
+![Scenario B](img/ScenarioB.png)
 
 > ℹ️ Additional scenarios and conditions will be added in future dataset updates.
