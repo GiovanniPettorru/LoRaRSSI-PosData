@@ -64,7 +64,8 @@ Data was collected on a football field at the *Centro Universitario Sportivo (CU
 The dataset is organized into folders, each corresponding to a specific acquisition scenario:
 - Scenario A: Contains a separate JSON file for each tested distance between anchor and target.
 - Scenario B: Includes one JSON file per target position within a rectangular deployment area.
-- Scenario C: Provides one JSON file for each combination of target position and anchor behavior configuration.
+
+Inside each folder, there are different JSON files corresponding to each test based on the target position. Note that the filenames provide information about the specific target position.
 
 Each JSON file contains a collection of entries, where each entry represents a received packet and includes the following fields:
 - Timestamp: Reception time of the packet.
@@ -73,6 +74,7 @@ Each JSON file contains a collection of entries, where each entry represents a r
 - Freq: Frequency used for transmission (in MHz).
 - RSSI: Received Signal Strength Indicator (in dBm).
 - SNR: Signal-to-Noise Ratio (in dB).
+
 
 This structured format allows for straightforward parsing and facilitates statistical analysis, model training, and evaluation of RSS-based techniques in realistic outdoor settings.
 
