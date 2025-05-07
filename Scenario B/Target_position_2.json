@@ -1,0 +1,7350 @@
+[{
+  "Timestamp": "2025-03-18 10:34:07",
+  "Latitude": 39.2305956,
+  "Longitude": 9.112936266666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:08",
+  "Latitude": 39.230595533333336,
+  "Longitude": 9.112936266666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:09",
+  "Latitude": 39.230595466666664,
+  "Longitude": 9.112936283333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:11",
+  "Latitude": 39.23059536666667,
+  "Longitude": 9.112936366666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:13",
+  "Latitude": 39.23059526666667,
+  "Longitude": 9.112936516666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:14",
+  "Latitude": 39.23059523333333,
+  "Longitude": 9.112936583333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.5
+}
+{
+  "Timestamp": "2025-03-18 10:34:15",
+  "Latitude": 39.2305952,
+  "Longitude": 9.11293665,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.5
+}
+{
+  "Timestamp": "2025-03-18 10:34:17",
+  "Latitude": 39.23059515,
+  "Longitude": 9.112936833333332,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:18",
+  "Latitude": 39.230595083333334,
+  "Longitude": 9.1129369,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:19",
+  "Latitude": 39.230595,
+  "Longitude": 9.11293695,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:20",
+  "Latitude": 39.230594933333336,
+  "Longitude": 9.112937,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:21",
+  "Latitude": 39.23059485,
+  "Longitude": 9.11293705,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:22",
+  "Latitude": 39.23059478333333,
+  "Longitude": 9.112937133333332,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:24",
+  "Latitude": 39.23059463333333,
+  "Longitude": 9.112937266666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 5.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:25",
+  "Latitude": 39.23059456666667,
+  "Longitude": 9.112937316666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:26",
+  "Latitude": 39.23059451666666,
+  "Longitude": 9.112937383333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:28",
+  "Latitude": 39.23059441666667,
+  "Longitude": 9.11293745,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 5.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:29",
+  "Latitude": 39.230594366666665,
+  "Longitude": 9.112937483333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": 0.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:30",
+  "Latitude": 39.23059431666667,
+  "Longitude": 9.112937516666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": 0.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:31",
+  "Latitude": 39.230594233333335,
+  "Longitude": 9.112937533333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 5.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:32",
+  "Latitude": 39.23059416666667,
+  "Longitude": 9.112937533333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:33",
+  "Latitude": 39.2305941,
+  "Longitude": 9.112937516666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:35",
+  "Latitude": 39.23059405,
+  "Longitude": 9.112937533333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:36",
+  "Latitude": 39.230593983333335,
+  "Longitude": 9.112937533333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:37",
+  "Latitude": 39.23059381666667,
+  "Longitude": 9.1129376,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:38",
+  "Latitude": 39.230593766666665,
+  "Longitude": 9.11293765,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 7.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:39",
+  "Latitude": 39.230593733333336,
+  "Longitude": 9.112937683333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:40",
+  "Latitude": 39.23059371666667,
+  "Longitude": 9.1129377,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 5.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:41",
+  "Latitude": 39.23059368333333,
+  "Longitude": 9.1129377,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -1.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:42",
+  "Latitude": 39.230593633333335,
+  "Longitude": 9.1129377,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -1.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:43",
+  "Latitude": 39.2305936,
+  "Longitude": 9.1129377,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:44",
+  "Latitude": 39.23059358333333,
+  "Longitude": 9.1129377,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:45",
+  "Latitude": 39.23059355,
+  "Longitude": 9.1129377,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:47",
+  "Latitude": 39.230593533333334,
+  "Longitude": 9.112937683333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:34:48",
+  "Latitude": 39.230593516666666,
+  "Longitude": 9.11293765,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:49",
+  "Latitude": 39.23059355,
+  "Longitude": 9.112937616666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:34:51",
+  "Latitude": 39.23059356666667,
+  "Longitude": 9.1129375,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 5.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:52",
+  "Latitude": 39.23059358333333,
+  "Longitude": 9.11293745,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:53",
+  "Latitude": 39.2305936,
+  "Longitude": 9.1129374,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:54",
+  "Latitude": 39.23059361666667,
+  "Longitude": 9.11293735,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:56",
+  "Latitude": 39.230593666666664,
+  "Longitude": 9.112937316666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -4.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:57",
+  "Latitude": 39.23059368333333,
+  "Longitude": 9.112937316666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:34:58",
+  "Latitude": 39.23059371666667,
+  "Longitude": 9.112937316666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:34:59",
+  "Latitude": 39.230593766666665,
+  "Longitude": 9.1129373,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:00",
+  "Latitude": 39.23059381666667,
+  "Longitude": 9.112937316666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:01",
+  "Latitude": 39.230593866666666,
+  "Longitude": 9.11293735,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:03",
+  "Latitude": 39.23059393333333,
+  "Longitude": 9.112937366666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:04",
+  "Latitude": 39.23059395,
+  "Longitude": 9.112937383333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:05",
+  "Latitude": 39.23059396666667,
+  "Longitude": 9.112937383333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:07",
+  "Latitude": 39.230594,
+  "Longitude": 9.11293745,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:08",
+  "Latitude": 39.23059403333333,
+  "Longitude": 9.1129375,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:09",
+  "Latitude": 39.23059406666667,
+  "Longitude": 9.112937583333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -5.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:11",
+  "Latitude": 39.23059415,
+  "Longitude": 9.112937666666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:12",
+  "Latitude": 39.23059418333333,
+  "Longitude": 9.1129377,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:13",
+  "Latitude": 39.2305942,
+  "Longitude": 9.11293775,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:35:15",
+  "Latitude": 39.2305942,
+  "Longitude": 9.112937783333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:16",
+  "Latitude": 39.2305942,
+  "Longitude": 9.112937766666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:17",
+  "Latitude": 39.2305942,
+  "Longitude": 9.112937766666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:18",
+  "Latitude": 39.23059421666667,
+  "Longitude": 9.112937766666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:19",
+  "Latitude": 39.23059421666667,
+  "Longitude": 9.112937766666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:20",
+  "Latitude": 39.2305942,
+  "Longitude": 9.1129378,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:21",
+  "Latitude": 39.23059418333333,
+  "Longitude": 9.112937833333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:22",
+  "Latitude": 39.23059415,
+  "Longitude": 9.112937866666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:23",
+  "Latitude": 39.230594116666666,
+  "Longitude": 9.112937883333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:24",
+  "Latitude": 39.2305941,
+  "Longitude": 9.112937916666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -120,
+  "SNR": -3.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:25",
+  "Latitude": 39.23059406666667,
+  "Longitude": 9.112937933333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:26",
+  "Latitude": 39.23059403333333,
+  "Longitude": 9.112937966666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:29",
+  "Latitude": 39.23059393333333,
+  "Longitude": 9.11293805,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:30",
+  "Latitude": 39.230593883333334,
+  "Longitude": 9.112938116666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:31",
+  "Latitude": 39.23059385,
+  "Longitude": 9.1129382,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:32",
+  "Latitude": 39.23059378333333,
+  "Longitude": 9.112938283333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:34",
+  "Latitude": 39.2305937,
+  "Longitude": 9.11293845,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:35",
+  "Latitude": 39.23059368333333,
+  "Longitude": 9.1129385,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:36",
+  "Latitude": 39.23059365,
+  "Longitude": 9.112938566666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:39",
+  "Latitude": 39.23059358333333,
+  "Longitude": 9.1129387,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:40",
+  "Latitude": 39.23059356666667,
+  "Longitude": 9.112938733333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:43",
+  "Latitude": 39.23059348333334,
+  "Longitude": 9.1129389,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:44",
+  "Latitude": 39.23059346666667,
+  "Longitude": 9.112938933333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:46",
+  "Latitude": 39.230593416666665,
+  "Longitude": 9.112939033333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:47",
+  "Latitude": 39.2305934,
+  "Longitude": 9.1129391,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:35:48",
+  "Latitude": 39.230593383333336,
+  "Longitude": 9.11293915,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:35:50",
+  "Latitude": 39.230593283333334,
+  "Longitude": 9.112939283333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:51",
+  "Latitude": 39.23059325,
+  "Longitude": 9.11293935,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:35:52",
+  "Latitude": 39.2305932,
+  "Longitude": 9.112939416666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:53",
+  "Latitude": 39.230593166666665,
+  "Longitude": 9.112939483333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:54",
+  "Latitude": 39.23059315,
+  "Longitude": 9.112939533333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:55",
+  "Latitude": 39.23059311666667,
+  "Longitude": 9.112939583333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:35:56",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.112939616666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:35:57",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112939633333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": -3.5
+}
+{
+  "Timestamp": "2025-03-18 10:35:58",
+  "Latitude": 39.230593033333335,
+  "Longitude": 9.112939666666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:35:59",
+  "Latitude": 39.230593033333335,
+  "Longitude": 9.112939666666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:36:01",
+  "Latitude": 39.23059301666667,
+  "Longitude": 9.11293965,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:02",
+  "Latitude": 39.230593,
+  "Longitude": 9.112939633333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -3.0
+}
+{
+  "Timestamp": "2025-03-18 10:36:03",
+  "Latitude": 39.23059298333333,
+  "Longitude": 9.112939633333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -3.0
+}
+{
+  "Timestamp": "2025-03-18 10:36:05",
+  "Latitude": 39.23059296666667,
+  "Longitude": 9.112939633333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:06",
+  "Latitude": 39.23059295,
+  "Longitude": 9.112939633333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:36:07",
+  "Latitude": 39.230592933333334,
+  "Longitude": 9.112939633333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:36:10",
+  "Latitude": 39.23059288333334,
+  "Longitude": 9.11293965,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:11",
+  "Latitude": 39.23059288333334,
+  "Longitude": 9.11293965,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:13",
+  "Latitude": 39.23059288333334,
+  "Longitude": 9.112939666666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 2.0
+}
+{
+  "Timestamp": "2025-03-18 10:36:14",
+  "Latitude": 39.23059288333334,
+  "Longitude": 9.112939683333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:15",
+  "Latitude": 39.23059288333334,
+  "Longitude": 9.1129397,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:17",
+  "Latitude": 39.23059286666667,
+  "Longitude": 9.112939733333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 2.0
+}
+{
+  "Timestamp": "2025-03-18 10:36:18",
+  "Latitude": 39.23059286666667,
+  "Longitude": 9.112939766666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:19",
+  "Latitude": 39.23059286666667,
+  "Longitude": 9.112939783333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:20",
+  "Latitude": 39.23059288333334,
+  "Longitude": 9.1129398,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:21",
+  "Latitude": 39.2305929,
+  "Longitude": 9.112939816666668,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:24",
+  "Latitude": 39.230592933333334,
+  "Longitude": 9.112939833333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:36:25",
+  "Latitude": 39.230592933333334,
+  "Longitude": 9.11293985,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 1.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:26",
+  "Latitude": 39.23059295,
+  "Longitude": 9.112939866666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:27",
+  "Latitude": 39.23059296666667,
+  "Longitude": 9.112939883333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:28",
+  "Latitude": 39.23059298333333,
+  "Longitude": 9.1129399,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:36:29",
+  "Latitude": 39.230593,
+  "Longitude": 9.112939916666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:36:30",
+  "Latitude": 39.230593033333335,
+  "Longitude": 9.112939933333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:31",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112939966666668,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:33",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112939983333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": -0.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:34",
+  "Latitude": 39.230593066666664,
+  "Longitude": 9.112939983333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:35",
+  "Latitude": 39.230593066666664,
+  "Longitude": 9.112939983333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:37",
+  "Latitude": 39.230593066666664,
+  "Longitude": 9.112940016666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 0.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:38",
+  "Latitude": 39.230593066666664,
+  "Longitude": 9.112940033333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:36:39",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.112940033333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:36:41",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.11294005,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": -2.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:42",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.112940066666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -77,
+  "SNR": 0.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:46",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.1129401,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:47",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.112940116666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:48",
+  "Latitude": 39.230593066666664,
+  "Longitude": 9.11294015,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:50",
+  "Latitude": 39.230593033333335,
+  "Longitude": 9.112940183333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:51",
+  "Latitude": 39.23059301666667,
+  "Longitude": 9.112940216666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:52",
+  "Latitude": 39.23059301666667,
+  "Longitude": 9.11294025,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:53",
+  "Latitude": 39.230593,
+  "Longitude": 9.112940283333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.5
+}
+{
+  "Timestamp": "2025-03-18 10:36:54",
+  "Latitude": 39.230593,
+  "Longitude": 9.112940333333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -4.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:55",
+  "Latitude": 39.230593,
+  "Longitude": 9.112940383333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:56",
+  "Latitude": 39.23059298333333,
+  "Longitude": 9.112940433333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:36:58",
+  "Latitude": 39.23059295,
+  "Longitude": 9.1129405,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:36:59",
+  "Latitude": 39.23059295,
+  "Longitude": 9.11294055,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:00",
+  "Latitude": 39.23059295,
+  "Longitude": 9.1129406,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:01",
+  "Latitude": 39.23059296666667,
+  "Longitude": 9.11294065,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:02",
+  "Latitude": 39.23059296666667,
+  "Longitude": 9.112940683333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:03",
+  "Latitude": 39.23059298333333,
+  "Longitude": 9.11294075,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:04",
+  "Latitude": 39.23059298333333,
+  "Longitude": 9.112940816666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:06",
+  "Latitude": 39.230593,
+  "Longitude": 9.1129409,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:07",
+  "Latitude": 39.230593,
+  "Longitude": 9.112940966666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:08",
+  "Latitude": 39.230593,
+  "Longitude": 9.112941033333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:09",
+  "Latitude": 39.230593,
+  "Longitude": 9.112941066666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:10",
+  "Latitude": 39.230593,
+  "Longitude": 9.112941083333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:11",
+  "Latitude": 39.23059301666667,
+  "Longitude": 9.1129411,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:14",
+  "Latitude": 39.230593033333335,
+  "Longitude": 9.1129412,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:15",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112941216666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:16",
+  "Latitude": 39.23059305,
+  "Longitude": 9.11294125,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:17",
+  "Latitude": 39.230593066666664,
+  "Longitude": 9.112941266666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:19",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.112941333333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:20",
+  "Latitude": 39.2305931,
+  "Longitude": 9.112941366666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:22",
+  "Latitude": 39.230593166666665,
+  "Longitude": 9.112941416666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:23",
+  "Latitude": 39.23059318333333,
+  "Longitude": 9.11294145,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -0.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:24",
+  "Latitude": 39.23059321666667,
+  "Longitude": 9.112941466666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -0.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:25",
+  "Latitude": 39.23059323333333,
+  "Longitude": 9.112941516666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:27",
+  "Latitude": 39.230593283333334,
+  "Longitude": 9.112941566666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:30",
+  "Latitude": 39.23059335,
+  "Longitude": 9.11294165,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:31",
+  "Latitude": 39.23059335,
+  "Longitude": 9.112941666666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -5.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:32",
+  "Latitude": 39.23059336666667,
+  "Longitude": 9.1129417,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -5.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:34",
+  "Latitude": 39.23059336666667,
+  "Longitude": 9.11294175,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:35",
+  "Latitude": 39.23059333333333,
+  "Longitude": 9.112941783333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:36",
+  "Latitude": 39.23059331666666,
+  "Longitude": 9.11294185,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:38",
+  "Latitude": 39.23059335,
+  "Longitude": 9.112941933333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:39",
+  "Latitude": 39.23059335,
+  "Longitude": 9.112941966666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:40",
+  "Latitude": 39.23059335,
+  "Longitude": 9.112942,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:41",
+  "Latitude": 39.23059335,
+  "Longitude": 9.112942033333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": -1.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:42",
+  "Latitude": 39.23059335,
+  "Longitude": 9.112942083333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:43",
+  "Latitude": 39.23059333333333,
+  "Longitude": 9.112942133333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -80,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:44",
+  "Latitude": 39.23059331666666,
+  "Longitude": 9.112942166666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -5.0
+}
+{
+  "Timestamp": "2025-03-18 10:37:46",
+  "Latitude": 39.23059325,
+  "Longitude": 9.1129423,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:47",
+  "Latitude": 39.23059323333333,
+  "Longitude": 9.112942333333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:48",
+  "Latitude": 39.2305932,
+  "Longitude": 9.1129424,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:49",
+  "Latitude": 39.23059315,
+  "Longitude": 9.112942433333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:37:52",
+  "Latitude": 39.230593066666664,
+  "Longitude": 9.112942583333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:53",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112942616666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:54",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112942633333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:56",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112942666666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:57",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112942666666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": -0.25
+}
+{
+  "Timestamp": "2025-03-18 10:37:58",
+  "Latitude": 39.23059305,
+  "Longitude": 9.11294265,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -80,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:37:59",
+  "Latitude": 39.230593033333335,
+  "Longitude": 9.11294265,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -80,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:01",
+  "Latitude": 39.230593033333335,
+  "Longitude": 9.11294265,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:02",
+  "Latitude": 39.230593066666664,
+  "Longitude": 9.112942633333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -1.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:03",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.112942616666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:04",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.112942616666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:05",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.1129426,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 1.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:06",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.1129426,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -80,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:07",
+  "Latitude": 39.23059308333333,
+  "Longitude": 9.1129426,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -80,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:09",
+  "Latitude": 39.23059305,
+  "Longitude": 9.112942633333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:10",
+  "Latitude": 39.23059305,
+  "Longitude": 9.11294265,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:11",
+  "Latitude": 39.23059301666667,
+  "Longitude": 9.112942683333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:12",
+  "Latitude": 39.23059298333333,
+  "Longitude": 9.112942716666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:14",
+  "Latitude": 39.230592916666666,
+  "Longitude": 9.112942816666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:15",
+  "Latitude": 39.23059288333334,
+  "Longitude": 9.112942866666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:16",
+  "Latitude": 39.23059285,
+  "Longitude": 9.1129429,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:18",
+  "Latitude": 39.230592783333336,
+  "Longitude": 9.112942966666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:19",
+  "Latitude": 39.23059273333333,
+  "Longitude": 9.112943,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:20",
+  "Latitude": 39.2305927,
+  "Longitude": 9.112943033333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:21",
+  "Latitude": 39.230592666666666,
+  "Longitude": 9.112943066666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:22",
+  "Latitude": 39.23059265,
+  "Longitude": 9.1129431,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:23",
+  "Latitude": 39.23059261666667,
+  "Longitude": 9.112943133333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:24",
+  "Latitude": 39.23059258333333,
+  "Longitude": 9.11294315,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:25",
+  "Latitude": 39.230592533333336,
+  "Longitude": 9.1129432,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:27",
+  "Latitude": 39.23059248333333,
+  "Longitude": 9.11294325,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:28",
+  "Latitude": 39.23059245,
+  "Longitude": 9.1129433,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:30",
+  "Latitude": 39.23059236666667,
+  "Longitude": 9.112943333333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:32",
+  "Latitude": 39.230592316666666,
+  "Longitude": 9.11294335,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -7.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:33",
+  "Latitude": 39.2305923,
+  "Longitude": 9.112943333333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -7.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:35",
+  "Latitude": 39.23059225,
+  "Longitude": 9.112943333333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -5.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:36",
+  "Latitude": 39.23059223333333,
+  "Longitude": 9.112943316666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:37",
+  "Latitude": 39.2305922,
+  "Longitude": 9.1129433,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:38",
+  "Latitude": 39.230592183333336,
+  "Longitude": 9.112943283333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -8.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:39",
+  "Latitude": 39.23059216666667,
+  "Longitude": 9.112943266666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:40",
+  "Latitude": 39.23059215,
+  "Longitude": 9.112943266666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:42",
+  "Latitude": 39.230592116666664,
+  "Longitude": 9.112943283333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -9.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:44",
+  "Latitude": 39.2305921,
+  "Longitude": 9.1129433,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:45",
+  "Latitude": 39.230592083333335,
+  "Longitude": 9.1129433,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:46",
+  "Latitude": 39.230592083333335,
+  "Longitude": 9.1129433,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -122,
+  "SNR": 1.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:47",
+  "Latitude": 39.23059206666667,
+  "Longitude": 9.112943316666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:48",
+  "Latitude": 39.23059205,
+  "Longitude": 9.112943333333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:49",
+  "Latitude": 39.23059201666667,
+  "Longitude": 9.112943366666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 5.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:50",
+  "Latitude": 39.230591966666665,
+  "Longitude": 9.112943433333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -121,
+  "SNR": 1.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:51",
+  "Latitude": 39.230591966666665,
+  "Longitude": 9.112943466666668,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:38:52",
+  "Latitude": 39.23059195,
+  "Longitude": 9.1129435,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:53",
+  "Latitude": 39.230591933333336,
+  "Longitude": 9.112943533333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:38:55",
+  "Latitude": 39.23059188333333,
+  "Longitude": 9.112943616666668,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:56",
+  "Latitude": 39.23059185,
+  "Longitude": 9.11294365,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:38:58",
+  "Latitude": 39.2305918,
+  "Longitude": 9.112943733333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:38:59",
+  "Latitude": 39.23059175,
+  "Longitude": 9.112943766666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:02",
+  "Latitude": 39.230591616666665,
+  "Longitude": 9.112943883333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:03",
+  "Latitude": 39.23059156666667,
+  "Longitude": 9.112943916666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:04",
+  "Latitude": 39.230591516666664,
+  "Longitude": 9.11294395,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:06",
+  "Latitude": 39.23059143333333,
+  "Longitude": 9.112943966666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 1.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:07",
+  "Latitude": 39.23059138333333,
+  "Longitude": 9.112943966666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 1.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:11",
+  "Latitude": 39.23059128333333,
+  "Longitude": 9.112943966666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -78,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:12",
+  "Latitude": 39.230591266666664,
+  "Longitude": 9.11294395,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 1.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:14",
+  "Latitude": 39.230591233333335,
+  "Longitude": 9.11294395,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:15",
+  "Latitude": 39.23059121666667,
+  "Longitude": 9.112943966666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -121,
+  "SNR": 0.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:16",
+  "Latitude": 39.23059121666667,
+  "Longitude": 9.112943966666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -121,
+  "SNR": 0.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:18",
+  "Latitude": 39.2305912,
+  "Longitude": 9.11294395,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:39:19",
+  "Latitude": 39.23059118333333,
+  "Longitude": 9.112943933333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:20",
+  "Latitude": 39.23059118333333,
+  "Longitude": 9.11294395,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:22",
+  "Latitude": 39.23059116666667,
+  "Longitude": 9.112943983333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:39:23",
+  "Latitude": 39.23059116666667,
+  "Longitude": 9.112944,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:24",
+  "Latitude": 39.23059116666667,
+  "Longitude": 9.112943983333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -124,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:25",
+  "Latitude": 39.23059118333333,
+  "Longitude": 9.112943983333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:39:26",
+  "Latitude": 39.23059118333333,
+  "Longitude": 9.112944,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:39:27",
+  "Latitude": 39.23059116666667,
+  "Longitude": 9.112944016666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:28",
+  "Latitude": 39.23059115,
+  "Longitude": 9.112944033333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:30",
+  "Latitude": 39.230591133333334,
+  "Longitude": 9.11294405,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:31",
+  "Latitude": 39.2305911,
+  "Longitude": 9.112944083333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:32",
+  "Latitude": 39.23059108333333,
+  "Longitude": 9.1129441,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:33",
+  "Latitude": 39.23059106666667,
+  "Longitude": 9.112944116666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:39:35",
+  "Latitude": 39.23059105,
+  "Longitude": 9.1129441,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 2.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:36",
+  "Latitude": 39.230591016666665,
+  "Longitude": 9.1129441,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:38",
+  "Latitude": 39.230591,
+  "Longitude": 9.112944083333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:39:39",
+  "Latitude": 39.230590983333336,
+  "Longitude": 9.1129441,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:39:41",
+  "Latitude": 39.23059096666667,
+  "Longitude": 9.1129441,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -4.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:42",
+  "Latitude": 39.23059095,
+  "Longitude": 9.112944133333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:43",
+  "Latitude": 39.23059093333333,
+  "Longitude": 9.11294415,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:44",
+  "Latitude": 39.230590916666664,
+  "Longitude": 9.112944183333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:45",
+  "Latitude": 39.2305909,
+  "Longitude": 9.112944216666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:47",
+  "Latitude": 39.23059086666667,
+  "Longitude": 9.112944266666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:39:48",
+  "Latitude": 39.23059085,
+  "Longitude": 9.112944283333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:39:50",
+  "Latitude": 39.23059081666667,
+  "Longitude": 9.1129443,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:39:51",
+  "Latitude": 39.2305908,
+  "Longitude": 9.11294435,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:39:52",
+  "Latitude": 39.2305908,
+  "Longitude": 9.11294435,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:54",
+  "Latitude": 39.2305908,
+  "Longitude": 9.1129444,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 1.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:55",
+  "Latitude": 39.2305908,
+  "Longitude": 9.112944416666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -6.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:56",
+  "Latitude": 39.230590783333334,
+  "Longitude": 9.112944433333332,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:39:57",
+  "Latitude": 39.230590783333334,
+  "Longitude": 9.112944466666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:39:58",
+  "Latitude": 39.230590783333334,
+  "Longitude": 9.112944483333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:39:59",
+  "Latitude": 39.230590766666666,
+  "Longitude": 9.112944516666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -124,
+  "SNR": -3.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:00",
+  "Latitude": 39.230590766666666,
+  "Longitude": 9.112944533333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:01",
+  "Latitude": 39.230590766666666,
+  "Longitude": 9.11294455,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:02",
+  "Latitude": 39.230590783333334,
+  "Longitude": 9.112944566666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:03",
+  "Latitude": 39.2305908,
+  "Longitude": 9.112944616666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:04",
+  "Latitude": 39.23059081666667,
+  "Longitude": 9.112944666666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:05",
+  "Latitude": 39.23059081666667,
+  "Longitude": 9.112944683333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:07",
+  "Latitude": 39.23059083333333,
+  "Longitude": 9.112944733333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:08",
+  "Latitude": 39.23059085,
+  "Longitude": 9.112944733333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:09",
+  "Latitude": 39.23059086666667,
+  "Longitude": 9.112944733333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:11",
+  "Latitude": 39.23059085,
+  "Longitude": 9.112944766666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:12",
+  "Latitude": 39.23059085,
+  "Longitude": 9.112944783333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:13",
+  "Latitude": 39.23059085,
+  "Longitude": 9.112944816666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 2.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:15",
+  "Latitude": 39.23059085,
+  "Longitude": 9.11294485,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 2.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:18",
+  "Latitude": 39.23059083333333,
+  "Longitude": 9.112944883333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:19",
+  "Latitude": 39.23059083333333,
+  "Longitude": 9.1129449,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:20",
+  "Latitude": 39.23059081666667,
+  "Longitude": 9.112944933333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:22",
+  "Latitude": 39.2305908,
+  "Longitude": 9.112944966666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:23",
+  "Latitude": 39.230590783333334,
+  "Longitude": 9.112945,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:25",
+  "Latitude": 39.230590766666666,
+  "Longitude": 9.11294505,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:26",
+  "Latitude": 39.230590766666666,
+  "Longitude": 9.112945066666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:27",
+  "Latitude": 39.23059075,
+  "Longitude": 9.1129451,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -3.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:28",
+  "Latitude": 39.23059073333334,
+  "Longitude": 9.112945116666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:29",
+  "Latitude": 39.23059071666667,
+  "Longitude": 9.112945166666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:30",
+  "Latitude": 39.23059071666667,
+  "Longitude": 9.112945183333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:31",
+  "Latitude": 39.2305907,
+  "Longitude": 9.1129452,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:33",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112945266666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:34",
+  "Latitude": 39.23059065,
+  "Longitude": 9.1129453,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:35",
+  "Latitude": 39.23059061666667,
+  "Longitude": 9.112945333333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:38",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.112945383333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:39",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.1129454,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:42",
+  "Latitude": 39.23059055,
+  "Longitude": 9.1129454,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:43",
+  "Latitude": 39.230590533333334,
+  "Longitude": 9.112945416666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:46",
+  "Latitude": 39.230590516666666,
+  "Longitude": 9.112945416666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:47",
+  "Latitude": 39.2305905,
+  "Longitude": 9.1129454,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 2.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:48",
+  "Latitude": 39.2305905,
+  "Longitude": 9.1129454,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 2.5
+}
+{
+  "Timestamp": "2025-03-18 10:40:50",
+  "Latitude": 39.230590516666666,
+  "Longitude": 9.112945366666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:51",
+  "Latitude": 39.230590533333334,
+  "Longitude": 9.11294535,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:52",
+  "Latitude": 39.230590533333334,
+  "Longitude": 9.11294535,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:54",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.1129453,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:40:55",
+  "Latitude": 39.2305906,
+  "Longitude": 9.1129453,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:56",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.112945316666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:40:57",
+  "Latitude": 39.23059065,
+  "Longitude": 9.112945333333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:40:58",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112945316666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:41:00",
+  "Latitude": 39.2305907,
+  "Longitude": 9.112945283333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": -0.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:02",
+  "Latitude": 39.23059071666667,
+  "Longitude": 9.112945283333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:03",
+  "Latitude": 39.23059071666667,
+  "Longitude": 9.1129453,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:04",
+  "Latitude": 39.2305907,
+  "Longitude": 9.112945333333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -3.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:05",
+  "Latitude": 39.2305907,
+  "Longitude": 9.112945383333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 1.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:06",
+  "Latitude": 39.23059068333333,
+  "Longitude": 9.112945416666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:07",
+  "Latitude": 39.23059068333333,
+  "Longitude": 9.112945466666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:10",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.1129456,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:11",
+  "Latitude": 39.23059065,
+  "Longitude": 9.112945716666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:12",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112945766666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:13",
+  "Latitude": 39.23059068333333,
+  "Longitude": 9.112945833333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:14",
+  "Latitude": 39.23059068333333,
+  "Longitude": 9.112945883333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -121,
+  "SNR": 2.0
+}
+{
+  "Timestamp": "2025-03-18 10:41:15",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112945983333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:16",
+  "Latitude": 39.23059065,
+  "Longitude": 9.11294605,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:17",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.1129461,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:18",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.112946166666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:19",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.112946183333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:20",
+  "Latitude": 39.23059061666667,
+  "Longitude": 9.112946233333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:22",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.1129463,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -3.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:23",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.112946333333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:41:24",
+  "Latitude": 39.23059055,
+  "Longitude": 9.112946383333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:41:25",
+  "Latitude": 39.230590516666666,
+  "Longitude": 9.112946433333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:26",
+  "Latitude": 39.23059048333333,
+  "Longitude": 9.11294645,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:28",
+  "Latitude": 39.23059043333333,
+  "Longitude": 9.112946483333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:29",
+  "Latitude": 39.230590416666665,
+  "Longitude": 9.1129465,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 1.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:30",
+  "Latitude": 39.230590383333336,
+  "Longitude": 9.112946516666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 1.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:31",
+  "Latitude": 39.23059036666667,
+  "Longitude": 9.112946516666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:33",
+  "Latitude": 39.23059036666667,
+  "Longitude": 9.112946516666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 1.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:34",
+  "Latitude": 39.23059036666667,
+  "Longitude": 9.1129465,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -6.0
+}
+{
+  "Timestamp": "2025-03-18 10:41:35",
+  "Latitude": 39.230590383333336,
+  "Longitude": 9.1129465,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:36",
+  "Latitude": 39.230590416666665,
+  "Longitude": 9.112946483333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:37",
+  "Latitude": 39.23059045,
+  "Longitude": 9.112946466666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -115,
+  "SNR": 1.75
+}
+{
+  "Timestamp": "2025-03-18 10:41:38",
+  "Latitude": 39.23059048333333,
+  "Longitude": 9.112946483333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:39",
+  "Latitude": 39.230590516666666,
+  "Longitude": 9.112946483333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:42",
+  "Latitude": 39.2305906,
+  "Longitude": 9.1129465,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:43",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.112946516666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:44",
+  "Latitude": 39.23059065,
+  "Longitude": 9.112946533333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": -1.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:46",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112946533333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:47",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.11294655,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:41:50",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112946583333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -1.0
+}
+{
+  "Timestamp": "2025-03-18 10:41:51",
+  "Latitude": 39.23059065,
+  "Longitude": 9.112946583333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:52",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.112946583333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:53",
+  "Latitude": 39.23059061666667,
+  "Longitude": 9.112946583333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:55",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.11294665,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:56",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.112946666666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:57",
+  "Latitude": 39.23059055,
+  "Longitude": 9.112946716666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:41:59",
+  "Latitude": 39.23059055,
+  "Longitude": 9.112946766666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:00",
+  "Latitude": 39.230590533333334,
+  "Longitude": 9.1129468,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:01",
+  "Latitude": 39.230590516666666,
+  "Longitude": 9.112946816666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:03",
+  "Latitude": 39.2305905,
+  "Longitude": 9.112946866666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:04",
+  "Latitude": 39.2305905,
+  "Longitude": 9.112946883333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:42:05",
+  "Latitude": 39.23059048333333,
+  "Longitude": 9.112946883333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:42:06",
+  "Latitude": 39.23059048333333,
+  "Longitude": 9.1129469,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:07",
+  "Latitude": 39.23059048333333,
+  "Longitude": 9.1129469,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:42:08",
+  "Latitude": 39.2305905,
+  "Longitude": 9.112946916666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:09",
+  "Latitude": 39.2305905,
+  "Longitude": 9.112946916666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:42:10",
+  "Latitude": 39.2305905,
+  "Longitude": 9.112946916666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:42:11",
+  "Latitude": 39.230590533333334,
+  "Longitude": 9.112946916666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:42:12",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.1129469,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:42:14",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.11294695,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:42:15",
+  "Latitude": 39.2305906,
+  "Longitude": 9.112946966666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:16",
+  "Latitude": 39.2305906,
+  "Longitude": 9.112946983333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:18",
+  "Latitude": 39.23059061666667,
+  "Longitude": 9.112947016666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:19",
+  "Latitude": 39.2305906,
+  "Longitude": 9.112947033333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:20",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.11294705,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:22",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.112947066666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -81,
+  "SNR": 7.5
+}
+{
+  "Timestamp": "2025-03-18 10:42:23",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.1129471,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:42:24",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.112947116666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:42:26",
+  "Latitude": 39.23059061666667,
+  "Longitude": 9.112947133333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:27",
+  "Latitude": 39.2305906,
+  "Longitude": 9.11294715,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -120,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:42:28",
+  "Latitude": 39.2305906,
+  "Longitude": 9.112947183333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -120,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:42:31",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.112947233333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:42:32",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.112947233333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:42:34",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.11294725,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": -0.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:35",
+  "Latitude": 39.23059055,
+  "Longitude": 9.11294725,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": -0.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:38",
+  "Latitude": 39.23059055,
+  "Longitude": 9.112947233333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:39",
+  "Latitude": 39.23059055,
+  "Longitude": 9.112947216666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:40",
+  "Latitude": 39.23059055,
+  "Longitude": 9.112947216666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:42",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.11294725,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:43",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.112947266666668,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:46",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.1129473,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:47",
+  "Latitude": 39.23059065,
+  "Longitude": 9.1129473,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:50",
+  "Latitude": 39.23059068333333,
+  "Longitude": 9.112947333333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 1.75
+}
+{
+  "Timestamp": "2025-03-18 10:42:51",
+  "Latitude": 39.23059068333333,
+  "Longitude": 9.112947333333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:42:52",
+  "Latitude": 39.23059068333333,
+  "Longitude": 9.112947383333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:42:53",
+  "Latitude": 39.2305907,
+  "Longitude": 9.11294745,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:55",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.11294755,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:42:56",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112947583333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:42:57",
+  "Latitude": 39.23059065,
+  "Longitude": 9.1129476,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:58",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.112947616666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:42:59",
+  "Latitude": 39.23059065,
+  "Longitude": 9.112947683333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:00",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112947733333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:01",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.112947766666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -0.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:02",
+  "Latitude": 39.230590666666664,
+  "Longitude": 9.1129478,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -0.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:05",
+  "Latitude": 39.230590633333335,
+  "Longitude": 9.1129478,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:06",
+  "Latitude": 39.23059061666667,
+  "Longitude": 9.112947816666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:08",
+  "Latitude": 39.2305906,
+  "Longitude": 9.112947866666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:10",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.112947883333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:11",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.112947883333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:12",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.112947883333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:13",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.112947916666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:14",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.112947916666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 0.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:16",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.1129479,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:17",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.1129479,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -3.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:18",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.1129479,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 4.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:19",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.112947933333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:20",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.11294795,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:21",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.112947966666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:22",
+  "Latitude": 39.23059058333333,
+  "Longitude": 9.112947983333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 1.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:24",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.112948016666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:25",
+  "Latitude": 39.23059056666666,
+  "Longitude": 9.112948016666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:26",
+  "Latitude": 39.23059055,
+  "Longitude": 9.112948016666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 5.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:27",
+  "Latitude": 39.230590533333334,
+  "Longitude": 9.112948016666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 5.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:29",
+  "Latitude": 39.2305905,
+  "Longitude": 9.112948033333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:30",
+  "Latitude": 39.2305905,
+  "Longitude": 9.11294805,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:31",
+  "Latitude": 39.23059048333333,
+  "Longitude": 9.11294805,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 1.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:32",
+  "Latitude": 39.23059048333333,
+  "Longitude": 9.112948083333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -7.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:33",
+  "Latitude": 39.23059048333333,
+  "Longitude": 9.112948116666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -7.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:36",
+  "Latitude": 39.23059045,
+  "Longitude": 9.1129482,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:37",
+  "Latitude": 39.23059043333333,
+  "Longitude": 9.112948233333332,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:39",
+  "Latitude": 39.2305904,
+  "Longitude": 9.112948283333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:40",
+  "Latitude": 39.23059036666667,
+  "Longitude": 9.112948316666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 2.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:41",
+  "Latitude": 39.23059036666667,
+  "Longitude": 9.112948333333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 2.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:44",
+  "Latitude": 39.23059035,
+  "Longitude": 9.112948383333332,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:45",
+  "Latitude": 39.23059035,
+  "Longitude": 9.112948416666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:48",
+  "Latitude": 39.23059033333333,
+  "Longitude": 9.112948483333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:49",
+  "Latitude": 39.23059033333333,
+  "Longitude": 9.1129485,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:50",
+  "Latitude": 39.23059033333333,
+  "Longitude": 9.112948516666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:51",
+  "Latitude": 39.23059033333333,
+  "Longitude": 9.112948533333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:43:53",
+  "Latitude": 39.23059033333333,
+  "Longitude": 9.112948583333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:54",
+  "Latitude": 39.230590316666664,
+  "Longitude": 9.1129486,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:43:56",
+  "Latitude": 39.230590283333335,
+  "Longitude": 9.112948633333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -89,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:43:57",
+  "Latitude": 39.23059025,
+  "Longitude": 9.112948633333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:58",
+  "Latitude": 39.23059026666667,
+  "Longitude": 9.11294865,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:43:59",
+  "Latitude": 39.23059026666667,
+  "Longitude": 9.11294865,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:44:00",
+  "Latitude": 39.23059026666667,
+  "Longitude": 9.11294865,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:44:02",
+  "Latitude": 39.23059025,
+  "Longitude": 9.112948666666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:44:03",
+  "Latitude": 39.23059025,
+  "Longitude": 9.112948666666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -89,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:04",
+  "Latitude": 39.23059025,
+  "Longitude": 9.112948683333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -89,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:07",
+  "Latitude": 39.23059026666667,
+  "Longitude": 9.112948716666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:08",
+  "Latitude": 39.23059026666667,
+  "Longitude": 9.112948716666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -89,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:09",
+  "Latitude": 39.23059026666667,
+  "Longitude": 9.1129487,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -89,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:12",
+  "Latitude": 39.2305903,
+  "Longitude": 9.1129487,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:15",
+  "Latitude": 39.23059061666667,
+  "Longitude": 9.112952183333332,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:16",
+  "Latitude": 39.23059065,
+  "Longitude": 9.112953433333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -8.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:18",
+  "Latitude": 39.230591016666665,
+  "Longitude": 9.112955683333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:20",
+  "Latitude": 39.230591483333335,
+  "Longitude": 9.112957933333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:44:21",
+  "Latitude": 39.23059153333333,
+  "Longitude": 9.112958833333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:44:23",
+  "Latitude": 39.2305911,
+  "Longitude": 9.1129603,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:44:25",
+  "Latitude": 39.23059093333333,
+  "Longitude": 9.112960816666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:44:26",
+  "Latitude": 39.230590916666664,
+  "Longitude": 9.112960933333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:27",
+  "Latitude": 39.230590916666664,
+  "Longitude": 9.112960983333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:28",
+  "Latitude": 39.230590916666664,
+  "Longitude": 9.112961016666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:30",
+  "Latitude": 39.23059093333333,
+  "Longitude": 9.112961083333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:44:33",
+  "Latitude": 39.23059095,
+  "Longitude": 9.112961133333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:34",
+  "Latitude": 39.23059095,
+  "Longitude": 9.11296115,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:36",
+  "Latitude": 39.23059096666667,
+  "Longitude": 9.1129612,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:37",
+  "Latitude": 39.23059096666667,
+  "Longitude": 9.112961216666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:39",
+  "Latitude": 39.23059175,
+  "Longitude": 9.11296305,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:40",
+  "Latitude": 39.23059168333333,
+  "Longitude": 9.112965433333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:41",
+  "Latitude": 39.23059346666667,
+  "Longitude": 9.112969683333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:42",
+  "Latitude": 39.23059655,
+  "Longitude": 9.1129741,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:44",
+  "Latitude": 39.2305982,
+  "Longitude": 9.11297675,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:45",
+  "Latitude": 39.230599,
+  "Longitude": 9.1129779,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:46",
+  "Latitude": 39.230599733333335,
+  "Longitude": 9.112979316666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 2.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:47",
+  "Latitude": 39.23060001666666,
+  "Longitude": 9.112980116666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:48",
+  "Latitude": 39.230599833333336,
+  "Longitude": 9.112981133333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:49",
+  "Latitude": 39.23059911666667,
+  "Longitude": 9.112982433333332,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:51",
+  "Latitude": 39.23059915,
+  "Longitude": 9.11298155,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:52",
+  "Latitude": 39.23059835,
+  "Longitude": 9.112981266666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:53",
+  "Latitude": 39.23059763333333,
+  "Longitude": 9.112981833333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:44:54",
+  "Latitude": 39.2305953,
+  "Longitude": 9.1129837,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:44:56",
+  "Latitude": 39.2305926,
+  "Longitude": 9.1129862,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:44:57",
+  "Latitude": 39.23059118333333,
+  "Longitude": 9.112987183333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -7.5
+}
+{
+  "Timestamp": "2025-03-18 10:44:58",
+  "Latitude": 39.2305888,
+  "Longitude": 9.112986816666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -7.5
+}
+{
+  "Timestamp": "2025-03-18 10:44:59",
+  "Latitude": 39.23058771666667,
+  "Longitude": 9.112986583333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:00",
+  "Latitude": 39.230587033333336,
+  "Longitude": 9.112986583333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": -1.5
+}
+{
+  "Timestamp": "2025-03-18 10:45:01",
+  "Latitude": 39.23058666666667,
+  "Longitude": 9.112986616666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": -1.5
+}
+{
+  "Timestamp": "2025-03-18 10:45:04",
+  "Latitude": 39.23058655,
+  "Longitude": 9.112987183333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:05",
+  "Latitude": 39.2305866,
+  "Longitude": 9.11298735,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:08",
+  "Latitude": 39.23058661666666,
+  "Longitude": 9.1129873,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:09",
+  "Latitude": 39.230586683333335,
+  "Longitude": 9.112987133333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:11",
+  "Latitude": 39.2305867,
+  "Longitude": 9.112987066666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:13",
+  "Latitude": 39.23058675,
+  "Longitude": 9.112986966666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:16",
+  "Latitude": 39.23058675,
+  "Longitude": 9.11298685,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:17",
+  "Latitude": 39.23058673333333,
+  "Longitude": 9.112986866666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:19",
+  "Latitude": 39.230586683333335,
+  "Longitude": 9.112986933333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:20",
+  "Latitude": 39.23058666666667,
+  "Longitude": 9.112986933333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:21",
+  "Latitude": 39.23058665,
+  "Longitude": 9.11298695,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:23",
+  "Latitude": 39.23058661666666,
+  "Longitude": 9.112986966666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:24",
+  "Latitude": 39.2305866,
+  "Longitude": 9.112986983333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:26",
+  "Latitude": 39.230586566666666,
+  "Longitude": 9.112987,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:30",
+  "Latitude": 39.23058651666667,
+  "Longitude": 9.112986983333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:31",
+  "Latitude": 39.23058651666667,
+  "Longitude": 9.112986983333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -8.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:32",
+  "Latitude": 39.23058628333333,
+  "Longitude": 9.112987566666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -8.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:34",
+  "Latitude": 39.23058606666667,
+  "Longitude": 9.112988033333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:35",
+  "Latitude": 39.23058603333333,
+  "Longitude": 9.112988133333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": -3.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:36",
+  "Latitude": 39.230586,
+  "Longitude": 9.112988183333334,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:37",
+  "Latitude": 39.230585983333334,
+  "Longitude": 9.112988216666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:38",
+  "Latitude": 39.230585983333334,
+  "Longitude": 9.112988233333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:39",
+  "Latitude": 39.23058595,
+  "Longitude": 9.112988266666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -8.5
+}
+{
+  "Timestamp": "2025-03-18 10:45:40",
+  "Latitude": 39.23058588333333,
+  "Longitude": 9.112988316666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -8.5
+}
+{
+  "Timestamp": "2025-03-18 10:45:41",
+  "Latitude": 39.230585833333336,
+  "Longitude": 9.112988366666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:43",
+  "Latitude": 39.23058578333333,
+  "Longitude": 9.112988433333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:44",
+  "Latitude": 39.23058575,
+  "Longitude": 9.112988433333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:45",
+  "Latitude": 39.230585733333335,
+  "Longitude": 9.112988433333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:45:46",
+  "Latitude": 39.23058571666667,
+  "Longitude": 9.112988416666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:47",
+  "Latitude": 39.23058568333333,
+  "Longitude": 9.112988416666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:45:48",
+  "Latitude": 39.23058565,
+  "Longitude": 9.112988433333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:45:50",
+  "Latitude": 39.2305856,
+  "Longitude": 9.11298845,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:51",
+  "Latitude": 39.23058555,
+  "Longitude": 9.112988466666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:54",
+  "Latitude": 39.23058541666666,
+  "Longitude": 9.1129886,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:55",
+  "Latitude": 39.230585366666666,
+  "Longitude": 9.112988633333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:56",
+  "Latitude": 39.23058533333333,
+  "Longitude": 9.112988666666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:58",
+  "Latitude": 39.23058528333333,
+  "Longitude": 9.1129887,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:45:59",
+  "Latitude": 39.230585266666665,
+  "Longitude": 9.112988733333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:46:00",
+  "Latitude": 39.230585233333336,
+  "Longitude": 9.112988783333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:46:02",
+  "Latitude": 39.23058518333333,
+  "Longitude": 9.112988833333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -89,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:03",
+  "Latitude": 39.23058518333333,
+  "Longitude": 9.112988833333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -89,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:06",
+  "Latitude": 39.23058515,
+  "Longitude": 9.112988866666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:07",
+  "Latitude": 39.23058515,
+  "Longitude": 9.11298885,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:46:08",
+  "Latitude": 39.230585166666664,
+  "Longitude": 9.112988833333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -5.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:09",
+  "Latitude": 39.23058515,
+  "Longitude": 9.112988833333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -5.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:10",
+  "Latitude": 39.23058511666667,
+  "Longitude": 9.112988833333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:11",
+  "Latitude": 39.23058511666667,
+  "Longitude": 9.112988816666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -84,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:14",
+  "Latitude": 39.2305851,
+  "Longitude": 9.1129888,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:46:15",
+  "Latitude": 39.23058511666667,
+  "Longitude": 9.112988783333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:46:16",
+  "Latitude": 39.230585133333335,
+  "Longitude": 9.112988783333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:18",
+  "Latitude": 39.23058515,
+  "Longitude": 9.1129888,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:19",
+  "Latitude": 39.230585166666664,
+  "Longitude": 9.112988816666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:21",
+  "Latitude": 39.23058515,
+  "Longitude": 9.112988816666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:22",
+  "Latitude": 39.230585133333335,
+  "Longitude": 9.1129888,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:23",
+  "Latitude": 39.23058515,
+  "Longitude": 9.11298875,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:24",
+  "Latitude": 39.23058515,
+  "Longitude": 9.112988733333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:26",
+  "Latitude": 39.23058515,
+  "Longitude": 9.11298875,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:27",
+  "Latitude": 39.23058515,
+  "Longitude": 9.11298875,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:28",
+  "Latitude": 39.230585133333335,
+  "Longitude": 9.112988766666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:31",
+  "Latitude": 39.230585166666664,
+  "Longitude": 9.112988766666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:46:32",
+  "Latitude": 39.230585166666664,
+  "Longitude": 9.112988783333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:33",
+  "Latitude": 39.230585166666664,
+  "Longitude": 9.112988783333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:34",
+  "Latitude": 39.230585166666664,
+  "Longitude": 9.112988783333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:35",
+  "Latitude": 39.230585166666664,
+  "Longitude": 9.1129888,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:37",
+  "Latitude": 39.23058515,
+  "Longitude": 9.112988833333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:39",
+  "Latitude": 39.23058515,
+  "Longitude": 9.112988833333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:46:40",
+  "Latitude": 39.23058515,
+  "Longitude": 9.112988833333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:46:42",
+  "Latitude": 39.230585133333335,
+  "Longitude": 9.112988816666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:46:43",
+  "Latitude": 39.230585133333335,
+  "Longitude": 9.112988816666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:46:46",
+  "Latitude": 39.23058506666667,
+  "Longitude": 9.1129888,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:46:47",
+  "Latitude": 39.23058505,
+  "Longitude": 9.112988783333334,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:46:48",
+  "Latitude": 39.230585033333334,
+  "Longitude": 9.112988783333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -120,
+  "SNR": -7.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:49",
+  "Latitude": 39.230585016666666,
+  "Longitude": 9.11298875,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -120,
+  "SNR": -7.0
+}
+{
+  "Timestamp": "2025-03-18 10:46:51",
+  "Latitude": 39.230585033333334,
+  "Longitude": 9.112988716666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:52",
+  "Latitude": 39.230585016666666,
+  "Longitude": 9.1129887,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:46:53",
+  "Latitude": 39.230585016666666,
+  "Longitude": 9.1129887,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -4.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:54",
+  "Latitude": 39.230585,
+  "Longitude": 9.112988683333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -4.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:55",
+  "Latitude": 39.23058498333333,
+  "Longitude": 9.112988683333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:56",
+  "Latitude": 39.23058498333333,
+  "Longitude": 9.112988666666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:57",
+  "Latitude": 39.23058496666667,
+  "Longitude": 9.11298865,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:58",
+  "Latitude": 39.23058495,
+  "Longitude": 9.112988616666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:46:59",
+  "Latitude": 39.23058493333333,
+  "Longitude": 9.112988616666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:00",
+  "Latitude": 39.2305849,
+  "Longitude": 9.112988633333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:01",
+  "Latitude": 39.230584883333336,
+  "Longitude": 9.11298865,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:03",
+  "Latitude": 39.230584883333336,
+  "Longitude": 9.1129887,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:04",
+  "Latitude": 39.23058486666667,
+  "Longitude": 9.112988716666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:06",
+  "Latitude": 39.23058483333333,
+  "Longitude": 9.1129888,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:47:07",
+  "Latitude": 39.23058481666666,
+  "Longitude": 9.112988833333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:08",
+  "Latitude": 39.230584783333335,
+  "Longitude": 9.112988833333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:10",
+  "Latitude": 39.23058476666667,
+  "Longitude": 9.112988833333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:12",
+  "Latitude": 39.23058473333333,
+  "Longitude": 9.112988833333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:47:13",
+  "Latitude": 39.23058473333333,
+  "Longitude": 9.112988833333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:14",
+  "Latitude": 39.23058473333333,
+  "Longitude": 9.112988833333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:15",
+  "Latitude": 39.23058471666667,
+  "Longitude": 9.112988816666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -6.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:16",
+  "Latitude": 39.23058471666667,
+  "Longitude": 9.112988833333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:17",
+  "Latitude": 39.23058471666667,
+  "Longitude": 9.112988833333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:18",
+  "Latitude": 39.23058473333333,
+  "Longitude": 9.11298885,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:20",
+  "Latitude": 39.23058475,
+  "Longitude": 9.112988866666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:21",
+  "Latitude": 39.23058473333333,
+  "Longitude": 9.112988883333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:22",
+  "Latitude": 39.23058471666667,
+  "Longitude": 9.1129889,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:23",
+  "Latitude": 39.2305847,
+  "Longitude": 9.112988883333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:24",
+  "Latitude": 39.23058468333333,
+  "Longitude": 9.112988883333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -7.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:25",
+  "Latitude": 39.23058468333333,
+  "Longitude": 9.112988883333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -7.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:27",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.1129889,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:28",
+  "Latitude": 39.23058468333333,
+  "Longitude": 9.1129889,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:29",
+  "Latitude": 39.23058468333333,
+  "Longitude": 9.112988916666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:31",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.11298895,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:32",
+  "Latitude": 39.23058465,
+  "Longitude": 9.11298895,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:33",
+  "Latitude": 39.23058465,
+  "Longitude": 9.11298895,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -124,
+  "SNR": -2.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:34",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.112988916666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:35",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.112988883333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:36",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.112988866666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:38",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.11298885,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:39",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.112988833333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:40",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.1129888,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:41",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.112988766666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:42",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.112988716666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:47:43",
+  "Latitude": 39.230584666666665,
+  "Longitude": 9.1129887,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:47:45",
+  "Latitude": 39.23058465,
+  "Longitude": 9.112988666666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:46",
+  "Latitude": 39.230584633333336,
+  "Longitude": 9.11298865,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:47",
+  "Latitude": 39.23058461666667,
+  "Longitude": 9.11298865,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:48",
+  "Latitude": 39.2305846,
+  "Longitude": 9.112988633333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -4.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:49",
+  "Latitude": 39.2305846,
+  "Longitude": 9.112988583333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:47:50",
+  "Latitude": 39.23058458333333,
+  "Longitude": 9.11298855,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:47:51",
+  "Latitude": 39.230584566666664,
+  "Longitude": 9.112988516666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:52",
+  "Latitude": 39.23058455,
+  "Longitude": 9.1129885,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:47:53",
+  "Latitude": 39.230584533333335,
+  "Longitude": 9.112988466666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:54",
+  "Latitude": 39.23058451666667,
+  "Longitude": 9.112988466666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.75
+}
+{
+  "Timestamp": "2025-03-18 10:47:55",
+  "Latitude": 39.2305845,
+  "Longitude": 9.112988466666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.75
+}
+{
+  "Timestamp": "2025-03-18 10:47:57",
+  "Latitude": 39.23058446666667,
+  "Longitude": 9.1129885,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:47:58",
+  "Latitude": 39.23058445,
+  "Longitude": 9.112988516666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:47:59",
+  "Latitude": 39.230584416666666,
+  "Longitude": 9.112988533333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:48:00",
+  "Latitude": 39.23058438333333,
+  "Longitude": 9.112988533333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:48:01",
+  "Latitude": 39.23058435,
+  "Longitude": 9.11298855,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:02",
+  "Latitude": 39.230584316666665,
+  "Longitude": 9.112988566666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:03",
+  "Latitude": 39.2305843,
+  "Longitude": 9.11298855,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:05",
+  "Latitude": 39.23058423333333,
+  "Longitude": 9.112988616666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:06",
+  "Latitude": 39.230584216666664,
+  "Longitude": 9.1129886,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:07",
+  "Latitude": 39.230584216666664,
+  "Longitude": 9.112988583333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:48:08",
+  "Latitude": 39.23058423333333,
+  "Longitude": 9.11298855,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 2.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:09",
+  "Latitude": 39.23058423333333,
+  "Longitude": 9.112988533333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:10",
+  "Latitude": 39.23058425,
+  "Longitude": 9.112988516666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:12",
+  "Latitude": 39.23058426666667,
+  "Longitude": 9.112988516666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": 0.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:13",
+  "Latitude": 39.23058426666667,
+  "Longitude": 9.1129885,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:14",
+  "Latitude": 39.23058426666667,
+  "Longitude": 9.112988483333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 3.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:15",
+  "Latitude": 39.230584283333336,
+  "Longitude": 9.112988466666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:48:16",
+  "Latitude": 39.23058426666667,
+  "Longitude": 9.112988483333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:17",
+  "Latitude": 39.230584283333336,
+  "Longitude": 9.112988466666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:18",
+  "Latitude": 39.230584283333336,
+  "Longitude": 9.112988433333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:19",
+  "Latitude": 39.230584283333336,
+  "Longitude": 9.112988416666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:20",
+  "Latitude": 39.2305843,
+  "Longitude": 9.11298835,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -3.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:21",
+  "Latitude": 39.230584316666665,
+  "Longitude": 9.112988316666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:22",
+  "Latitude": 39.230584316666665,
+  "Longitude": 9.112988283333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:25",
+  "Latitude": 39.23058433333333,
+  "Longitude": 9.112988216666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:26",
+  "Latitude": 39.230584316666665,
+  "Longitude": 9.112988216666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:28",
+  "Latitude": 39.2305843,
+  "Longitude": 9.1129882,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:29",
+  "Latitude": 39.230584283333336,
+  "Longitude": 9.112988183333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:30",
+  "Latitude": 39.23058426666667,
+  "Longitude": 9.112988183333334,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:32",
+  "Latitude": 39.23058425,
+  "Longitude": 9.11298815,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:48:33",
+  "Latitude": 39.23058425,
+  "Longitude": 9.112988133333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:35",
+  "Latitude": 39.23058425,
+  "Longitude": 9.112988116666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -8.5
+}
+{
+  "Timestamp": "2025-03-18 10:48:37",
+  "Latitude": 39.23058425,
+  "Longitude": 9.112988116666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:38",
+  "Latitude": 39.23058423333333,
+  "Longitude": 9.112988133333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:39",
+  "Latitude": 39.230584216666664,
+  "Longitude": 9.11298815,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:40",
+  "Latitude": 39.230584216666664,
+  "Longitude": 9.11298815,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:41",
+  "Latitude": 39.230584216666664,
+  "Longitude": 9.11298815,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:42",
+  "Latitude": 39.230584216666664,
+  "Longitude": 9.11298815,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -6.5
+}
+{
+  "Timestamp": "2025-03-18 10:48:44",
+  "Latitude": 39.2305842,
+  "Longitude": 9.11298815,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:45",
+  "Latitude": 39.2305842,
+  "Longitude": 9.11298815,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:47",
+  "Latitude": 39.2305842,
+  "Longitude": 9.11298815,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -111,
+  "SNR": 2.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:48",
+  "Latitude": 39.2305842,
+  "Longitude": 9.11298815,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:49",
+  "Latitude": 39.2305842,
+  "Longitude": 9.11298815,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -123,
+  "SNR": -0.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:50",
+  "Latitude": 39.230584183333335,
+  "Longitude": 9.112988166666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:51",
+  "Latitude": 39.23058415,
+  "Longitude": 9.1129882,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 5.25
+}
+{
+  "Timestamp": "2025-03-18 10:48:53",
+  "Latitude": 39.2305841,
+  "Longitude": 9.112988283333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -6.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:54",
+  "Latitude": 39.2305841,
+  "Longitude": 9.112988283333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -6.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:56",
+  "Latitude": 39.2305841,
+  "Longitude": 9.112988266666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -4.0
+}
+{
+  "Timestamp": "2025-03-18 10:48:57",
+  "Latitude": 39.2305841,
+  "Longitude": 9.11298825,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:48:58",
+  "Latitude": 39.2305841,
+  "Longitude": 9.11298825,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.75
+}
+{
+  "Timestamp": "2025-03-18 10:49:00",
+  "Latitude": 39.2305841,
+  "Longitude": 9.112988266666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:01",
+  "Latitude": 39.2305841,
+  "Longitude": 9.112988266666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:02",
+  "Latitude": 39.23058408333333,
+  "Longitude": 9.112988266666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:04",
+  "Latitude": 39.23058408333333,
+  "Longitude": 9.11298825,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:05",
+  "Latitude": 39.2305841,
+  "Longitude": 9.112988216666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:06",
+  "Latitude": 39.2305841,
+  "Longitude": 9.112988183333334,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:08",
+  "Latitude": 39.23058411666667,
+  "Longitude": 9.112988133333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:09",
+  "Latitude": 39.23058413333333,
+  "Longitude": 9.112988116666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:10",
+  "Latitude": 39.23058405,
+  "Longitude": 9.112988116666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:11",
+  "Latitude": 39.230584033333336,
+  "Longitude": 9.112988166666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:12",
+  "Latitude": 39.230584033333336,
+  "Longitude": 9.1129882,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:14",
+  "Latitude": 39.2305838,
+  "Longitude": 9.11298875,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:15",
+  "Latitude": 39.23058376666667,
+  "Longitude": 9.112988833333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:16",
+  "Latitude": 39.2305839,
+  "Longitude": 9.1129891,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": -5.75
+}
+{
+  "Timestamp": "2025-03-18 10:49:17",
+  "Latitude": 39.230584,
+  "Longitude": 9.112989366666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:18",
+  "Latitude": 39.23058386666667,
+  "Longitude": 9.11298945,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:19",
+  "Latitude": 39.23058366666667,
+  "Longitude": 9.11298945,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:21",
+  "Latitude": 39.23058338333333,
+  "Longitude": 9.112988983333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:22",
+  "Latitude": 39.23058325,
+  "Longitude": 9.112988816666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:24",
+  "Latitude": 39.2305831,
+  "Longitude": 9.112988683333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:25",
+  "Latitude": 39.23058305,
+  "Longitude": 9.112988666666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:26",
+  "Latitude": 39.230583016666664,
+  "Longitude": 9.112988666666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:28",
+  "Latitude": 39.230582983333335,
+  "Longitude": 9.112988666666666,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:29",
+  "Latitude": 39.23058296666667,
+  "Longitude": 9.112988666666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -119,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:49:30",
+  "Latitude": 39.23058295,
+  "Longitude": 9.112988666666666,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:31",
+  "Latitude": 39.23058293333333,
+  "Longitude": 9.112988683333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:32",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.112988766666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:33",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.1129888,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:34",
+  "Latitude": 39.2305829,
+  "Longitude": 9.112988816666666,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:35",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.112988833333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:38",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.112988866666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:39",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.112988883333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:40",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.112988916666666,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:41",
+  "Latitude": 39.2305829,
+  "Longitude": 9.11298895,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -120,
+  "SNR": 0.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:42",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.112988983333333,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -85,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:49:43",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.112989016666667,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:49:44",
+  "Latitude": 39.23058291666667,
+  "Longitude": 9.112989033333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:45",
+  "Latitude": 39.23058293333333,
+  "Longitude": 9.112989033333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:46",
+  "Latitude": 39.23058296666667,
+  "Longitude": 9.112989033333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 5.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:47",
+  "Latitude": 39.230582983333335,
+  "Longitude": 9.112989016666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:48",
+  "Latitude": 39.230583,
+  "Longitude": 9.112989016666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -122,
+  "SNR": 1.0
+}
+{
+  "Timestamp": "2025-03-18 10:49:49",
+  "Latitude": 39.230583,
+  "Longitude": 9.112989016666667,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:50",
+  "Latitude": 39.230583,
+  "Longitude": 9.112989033333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:51",
+  "Latitude": 39.230582983333335,
+  "Longitude": 9.112989066666668,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 5.75
+}
+{
+  "Timestamp": "2025-03-18 10:49:52",
+  "Latitude": 39.23058293333333,
+  "Longitude": 9.1129891,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -87,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:53",
+  "Latitude": 39.2305829,
+  "Longitude": 9.112989133333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.75
+}
+{
+  "Timestamp": "2025-03-18 10:49:54",
+  "Latitude": 39.230582866666666,
+  "Longitude": 9.11298915,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:55",
+  "Latitude": 39.23058285,
+  "Longitude": 9.112989166666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:56",
+  "Latitude": 39.23058283333334,
+  "Longitude": 9.112989166666667,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -88,
+  "SNR": 6.25
+}
+{
+  "Timestamp": "2025-03-18 10:49:57",
+  "Latitude": 39.23058281666667,
+  "Longitude": 9.112989183333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -117,
+  "SNR": -0.75
+}
+{
+  "Timestamp": "2025-03-18 10:49:58",
+  "Latitude": 39.2305828,
+  "Longitude": 9.1129892,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -112,
+  "SNR": 4.5
+}
+{
+  "Timestamp": "2025-03-18 10:49:59",
+  "Latitude": 39.2305828,
+  "Longitude": 9.1129892,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:50:01",
+  "Latitude": 39.2305828,
+  "Longitude": 9.112989183333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -83,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:50:02",
+  "Latitude": 39.23058281666667,
+  "Longitude": 9.112989183333333,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:50:03",
+  "Latitude": 39.23058281666667,
+  "Longitude": 9.112989166666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -114,
+  "SNR": 3.0
+}
+{
+  "Timestamp": "2025-03-18 10:50:05",
+  "Latitude": 39.23058283333334,
+  "Longitude": 9.11298915,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -113,
+  "SNR": 3.75
+}
+{
+  "Timestamp": "2025-03-18 10:50:06",
+  "Latitude": 39.23058281666667,
+  "Longitude": 9.112989133333333,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -86,
+  "SNR": 6.5
+}
+{
+  "Timestamp": "2025-03-18 10:50:07",
+  "Latitude": 39.23058281666667,
+  "Longitude": 9.11298915,
+  "Anchor": "2",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 1.5
+}
+{
+  "Timestamp": "2025-03-18 10:50:08",
+  "Latitude": 39.23058281666667,
+  "Longitude": 9.11298915,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -116,
+  "SNR": 1.5
+}
+{
+  "Timestamp": "2025-03-18 10:50:09",
+  "Latitude": 39.23058281666667,
+  "Longitude": 9.112989166666667,
+  "Anchor": "4",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -82,
+  "SNR": 6.0
+}
+{
+  "Timestamp": "2025-03-18 10:50:10",
+  "Latitude": 39.2305828,
+  "Longitude": 9.112989183333333,
+  "Anchor": "1",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.75
+}
+{
+  "Timestamp": "2025-03-18 10:50:11",
+  "Latitude": 39.2305828,
+  "Longitude": 9.1129892,
+  "Anchor": "3",
+  "Tx_pwr": 13,
+  "Freq": 868.0,
+  "RSSI": -118,
+  "SNR": -2.75
+}]
