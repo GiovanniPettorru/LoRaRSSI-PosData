@@ -46,11 +46,36 @@ Data was collected on a football field at the *Centro Universitario Sportivo (CU
 ### 📍 Scenario A – Linear Distance Test
 - Goal: Analyze the RSSI-distance relationship.
 - Setup: One anchor moved linearly from 10 to 40 meters in 10-meter steps while the target remains stationary.
+  
 ![Scenario A](img/ScenarioA.png)
 
 ### 📍 Scenario B – Grid-Based Deployment
 - Goal: RSSI measurement with fixed anchors and varied target positions.
 - Setup: Four anchors around a 23.5×44 m² rectangle. The target is placed at five positions (T1–T5).
+  
 ![Scenario B](img/ScenarioB.png)
 
 > ℹ️ Additional scenarios and conditions will be added in future dataset updates.
+
+---
+
+## 🧱 Dataset Structure
+
+The dataset is organized into folders, each corresponding to a specific acquisition scenario:
+- Scenario A: Contains a separate JSON file for each tested distance between anchor and target.
+- Scenario B: Includes one JSON file per target position within a rectangular deployment area.
+- Scenario C: Provides one JSON file for each combination of target position and anchor behavior configuration.
+
+Each JSON file contains a collection of entries, where each entry represents a received packet and includes the following fields:
+- Timestamp: Reception time of the packet.
+- Anchor: ID of the transmitting anchor node.
+- Tx_pwr: Transmission power (in dBm).
+- Freq: Frequency used for transmission (in MHz).
+- RSSI: Received Signal Strength Indicator (in dBm).
+- SNR: Signal-to-Noise Ratio (in dB).
+
+This structured format allows for straightforward parsing and facilitates statistical analysis, model training, and evaluation of RSS-based techniques in realistic outdoor settings.
+
+## 📬 Contact
+
+For further questions, feel free to reach out by emailing me at giovanni.pettorru@unica.it or by opening an issue.
